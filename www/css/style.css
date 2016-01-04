@@ -1,0 +1,158 @@
+/* Empty. Add your own CSS if you like */
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+  background-color: black;
+}
+
+/* nav bar  
+.bar.bar-header {
+  background: rgba(255,255,255,0);
+  border-bottom-width: 0;
+}
+
+.bar.bar-header h1 {
+  color: black !important;
+}
+
+
+.scroll-content {
+  overflow: visible !important;
+}
+
+/*.platform-ios.platform-cordova:not(.fullscreen) .has-header {
+  top:0px;
+}*/
+/* nav bar */
+
+.slider {
+  height: 100%;
+}
+
+.slider-slide {
+  padding-top: 80px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+#logo {
+  margin: 30px 0px;
+}
+
+#list {
+  width: 170px;
+  margin: 30px auto;
+  font-size: 20px;
+}
+
+#list ol {
+  margin-top: 30px;
+}
+
+#list ol li {
+  text-align: left;
+  list-style: decimal;
+  margin: 10px 0px;
+}
+
+.splash {
+  background: url(../img/bg.png) no-repeat center center fixed !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.splash p{
+  text-align: center;
+  padding-top: 12px;
+}
+
+.branding {
+  background: url(../img/layout.png);
+  height: 370px;
+  padding: 10px;
+  margin:10px;
+  text-align: center;
+}
+
+.branding h1 {
+  padding: 20px;
+
+  color: white;
+}
+
+ /*--------------Buttons------------*/
+
+input {
+  border-radius: 50%;
+}
+
+.inputLogin{
+  color:#919191 !important;
+}
+
+.inputLabel {
+  border-radius: 25px; 
+}
+
+/* input box */
+*::-webkit-input-placeholder {
+  color: #919191 !important;
+}
+*:-moz-placeholder {
+  color: #919191 !important;
+}
+*:-ms-input-placeholder { /* IE10+ */
+  color: #919191 !important;
+}
+
+.inputLogin {
+  border-radius: 35%;
+  /* color:#919191; */
+  color:red;
+}
+
+.termsAndConditions {
+  background-color: transparent;
+  border-color: transparent;
+  color: #fff;
+  font-size: 12px;
+  text-align: left;
+}
+/* .transparent {
+    background-color: transparent;
+    border-radius: 20px;  
+}
+*/
+
+h3, h4, p {
+  color: white;
+}
+
+/* Slide 2 css*/
+.forgotpassword {
+  padding-top:0px;
+}
+
+.branding_login {
+  background: url(../img/layout.png);
+  height: 350px;
+  padding: 30px;
+    margin:10px;
+  text-align: center;
+}
+
+ 
+ /* sLIDE 3 CSS */
+.branding_forgetpassword {
+  background: url(../img/layout.png);
+  height: 360px;
+  padding: 30px;
+
+      margin:10px;
+  text-align: center;
+}
+

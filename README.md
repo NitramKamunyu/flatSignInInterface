@@ -12,24 +12,32 @@ Profile: https://dribbble.com/HckmstrRahul
 <p>We recommend using the ionic utility to create new Ionic projects that are based on this project but use a ready-made starter template. 
 For example, to start a new Ionic project with the default tabs interface, make sure the ionic utility is installed:</p>
 
-`$ sudo npm install -g ionic`
+To use this project as is, first clone the repo from GitHub, then run:
 
-Then run:
-
-`$ sudo npm install -g ionic`
-
-`$ ionic start myProject tabs`
-
-
-More info on this can be found on the Ionic Getting Started page.
+`$ cd flatSignInInterface` 
 
 <h3>Installation</h3>
 
-While we recommend using the ionic utility to create new Ionic projects, you can use this repo as a barebones starting point to your next Ionic app.
+`ionic start myProject blank`
 
-To use this project as is, first clone the repo from GitHub, then run:
+`cd myProject b`
 
-`$ cd ionic-app-base` 
+Replace your www with this reposotry.
+
+Install android
+`ionic platform add android`
+
+Run o device 
+
+`ionic run android`
+
+
+More info on this can be found on the Ionic Getting Started page.
+ 
+<h3>Live example</h3>
+Want a live example ? , Download Ionic View from your store and enter the following code
+`f30f6dca`
+
 
 <h3>Issues</h3>
 

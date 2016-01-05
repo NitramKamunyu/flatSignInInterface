@@ -1,6 +1,9 @@
 # flatSignInInterface
 <h3>PSD UI convertion to Ionic framework</h3>
  http://gdriv.es/ionicexamplelogin
+ 
+ ![Preview](http://www.seveliyarz.co.za/git/git_uploads/flatSignInInterface_1.jpg "Flat sign in Interface")
+
 
 I decided to test my skill and try convert a PSD to Ionic framework
 
@@ -20,7 +23,7 @@ To use this project as is, first clone the repo from GitHub, then run:
 
 `ionic start myProject blank`
 
-`cd myProject b`
+`cd myProject`
 
 Replace your www with this reposotry.
 
